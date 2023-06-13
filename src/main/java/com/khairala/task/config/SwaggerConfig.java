@@ -27,7 +27,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
 
         return new ApiInfoBuilder()
-                .title("My API Documentation")
+                .title("Simple Quiz system")
                 .description("API documentation for my Spring MVC project")
                 .version("1.0.0")
                 .build();
